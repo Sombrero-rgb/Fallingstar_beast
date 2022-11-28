@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sombrero-rgb
 - 👀 I’m interested in FPGA STM32 C++ C MATLAB SIMULINK
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me SONGBULEILUO@163.COM
+- 🌱 I’m currently learning GAN,Deeeeeep learning.
+- 💞️ I’m looking to collaborate on Kaggle&ICPC
+- 📫 How to reach me：Sombrero137@outlook.com
 
 <!---
 Sombrero-rgb/Sombrero-rgb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
