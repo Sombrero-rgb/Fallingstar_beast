@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sombrero-rgb
 - 👀 I’m interested in FPGA STM32 C++ C MATLAB SIMULINK
 - 🌱 I’m currently learning GAN,Deeeeeep learning.
-- 💞️ I’m looking to collaborate on Kaggle&ICPC
+- 💞️ I’m looking for a collaborate on Kaggle&ICPC
 - 📫 How to reach me：Sombrero1729@Gmail.com
 
 <!---
